@@ -7,7 +7,6 @@
 
 ## Demo
 - Output sample: `outputs/out_terminator_sample.mp4`
-- (Large original videos are stored via Git LFS / or external link)
 
 ## Features
 - YOLO object detection (Ultralytics)
